@@ -1,0 +1,22 @@
+C:\Users\HP\Desktop\final project\Library\BL\bin\Debug\BL.dll
+C:\Users\HP\Desktop\final project\Library\BL\bin\Debug\BL.pdb
+C:\Users\HP\Desktop\final project\Library\BL\bin\Debug\BEL.dll
+C:\Users\HP\Desktop\final project\Library\BL\bin\Debug\DBL.dll
+C:\Users\HP\Desktop\final project\Library\BL\bin\Debug\BEL.pdb
+C:\Users\HP\Desktop\final project\Library\BL\bin\Debug\DBL.pdb
+C:\Users\HP\Desktop\final project\Library\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\final project\Library\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\final project\Library\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\HP\Desktop\final project\Library\BL\obj\Debug\BL.dll
+C:\Users\HP\Desktop\final project\Library\BL\obj\Debug\BL.pdb
+C:\Users\HP\Desktop\New folder (3)\final project\Library\BL\bin\Debug\BL.dll
+C:\Users\HP\Desktop\New folder (3)\final project\Library\BL\bin\Debug\BL.pdb
+C:\Users\HP\Desktop\New folder (3)\final project\Library\BL\bin\Debug\BEL.dll
+C:\Users\HP\Desktop\New folder (3)\final project\Library\BL\bin\Debug\DBL.dll
+C:\Users\HP\Desktop\New folder (3)\final project\Library\BL\bin\Debug\BEL.pdb
+C:\Users\HP\Desktop\New folder (3)\final project\Library\BL\bin\Debug\DBL.pdb
+C:\Users\HP\Desktop\New folder (3)\final project\Library\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\New folder (3)\final project\Library\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\New folder (3)\final project\Library\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\HP\Desktop\New folder (3)\final project\Library\BL\obj\Debug\BL.dll
+C:\Users\HP\Desktop\New folder (3)\final project\Library\BL\obj\Debug\BL.pdb
